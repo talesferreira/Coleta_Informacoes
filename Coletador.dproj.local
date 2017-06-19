@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/07/31 10:25:39.000.752,=C:\Users\tferrei\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/08/07 21:35:54.000.631,=C:\Users\tferrei\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/08/07 21:41:06.000.411,C:\Users\tferrei\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Projetos TI\DelphiXE2\CarregaDados\Principal.pas</Transaction>
+    <Transaction>2014/08/07 21:41:06.000.411,C:\Users\tferrei\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Projetos TI\DelphiXE2\CarregaDados\Principal.dfm</Transaction>
+    <Transaction>2014/08/07 21:41:16.000.729,C:\Users\tferrei\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Projetos TI\DelphiXE2\CarregaDados\Coletador.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
